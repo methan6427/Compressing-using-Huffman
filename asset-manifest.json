@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Compressing-using-Huffman/static/css/main.4983cd73.css",
+    "main.js": "/Compressing-using-Huffman/static/js/main.fab0ca2f.js",
+    "static/js/453.a1a0e49a.chunk.js": "/Compressing-using-Huffman/static/js/453.a1a0e49a.chunk.js",
+    "index.html": "/Compressing-using-Huffman/index.html",
+    "main.4983cd73.css.map": "/Compressing-using-Huffman/static/css/main.4983cd73.css.map",
+    "main.fab0ca2f.js.map": "/Compressing-using-Huffman/static/js/main.fab0ca2f.js.map",
+    "453.a1a0e49a.chunk.js.map": "/Compressing-using-Huffman/static/js/453.a1a0e49a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4983cd73.css",
+    "static/js/main.fab0ca2f.js"
+  ]
+}
